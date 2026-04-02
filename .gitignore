@@ -1,0 +1,13 @@
+# Arquivos de objeto gerados na compilacao
+*.o
+
+# Executaveis genericos
+*.exe
+*.out
+*.app
+
+# O nome especifico do seu executavel (substitua pelo nome que voce usa no gcc -o)
+app
+
+# Ignorar as imagens PPM (recomendado para nao lotar o Github)
+#*.ppm
